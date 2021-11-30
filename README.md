@@ -1,7 +1,7 @@
 # COSC-120
 Class Code and Labs, etc.
 
-Owner: Nick Krisulevicz
+Owner: Nicholas Krisulevicz
 
 This repository contains C++ code for COSC 120 for Fall 2020
 

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1611597319 source:c:\users\nick krisulevicz\documents\college files\salisbury\junior year\fall 2020\cosc 120\lab 10\lab10.2\threedimpt.cpp
+	"ThreeDimPt.h"
+	<iostream>
+
+1611600919 c:\users\nick krisulevicz\documents\college files\salisbury\junior year\fall 2020\cosc 120\lab 10\lab10.2\threedimpt.h
+	<iostream>
+	<fstream>
+
+1611614972 source:c:\users\nick krisulevicz\documents\college files\salisbury\junior year\fall 2020\cosc 120\lab 10\lab10.2\main.cpp
+	"ThreeDimPt.h"
+	<iostream>
+

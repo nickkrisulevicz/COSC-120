@@ -1,0 +1,7 @@
+The 3 most important concepts to remember when taking CS 220
+
+-variable
+
+-functions and parameters and arguments
+
+-pass by reference and pass by value

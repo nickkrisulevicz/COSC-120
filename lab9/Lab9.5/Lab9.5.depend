@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1611454598 source:c:\users\nick krisulevicz\documents\college files\salisbury\junior year\fall 2020\cosc 120\lab 9\lab9.5\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+

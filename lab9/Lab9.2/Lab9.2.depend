@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1611371446 source:c:\users\nick krisulevicz\documents\college files\salisbury\junior year\fall 2020\cosc 120\lab 9\lab9.2\circles.cpp
+	"Circles.h"
+
+1611371690 c:\users\nick krisulevicz\documents\college files\salisbury\junior year\fall 2020\cosc 120\lab 9\lab9.2\circles.h
+
+1611371709 source:c:\users\nick krisulevicz\documents\college files\salisbury\junior year\fall 2020\cosc 120\lab 9\lab9.2\main.cpp
+	<iostream>
+

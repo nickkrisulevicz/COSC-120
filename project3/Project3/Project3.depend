@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1611635392 source:c:\users\nick krisulevicz\documents\college files\salisbury\junior year\fall 2020\cosc 120\project 3\project3\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"employee.h"
+
+1611621381 source:c:\users\nick krisulevicz\documents\college files\salisbury\junior year\fall 2020\cosc 120\project 3\project3\employee.h
+	<string>
+
+1611633008 c:\users\nick krisulevicz\documents\college files\salisbury\junior year\fall 2020\cosc 120\project 3\project3\employee.h
+	<string>
+	<iostream>
+
+1611632994 source:c:\users\nick krisulevicz\documents\college files\salisbury\junior year\fall 2020\cosc 120\project 3\project3\employee.cpp
+	"Employee.h"
+	<string>
+	<iostream>
+
